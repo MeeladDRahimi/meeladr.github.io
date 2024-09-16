@@ -54,14 +54,16 @@ another indented item
 <enter email address>
 -->
 # ***Meelad Daniel Rahimi***
-#### **Clemson University | Computer Science BS**
+#### **Clemson University | Computer Science BS** 
 ###### *Contact Information: (843)330-2211 | <meeladr@g.clemson.edu>*
 ###### [*Click Here to See my Resume!*][1]
 [1]: https://docs.google.com/document/d/1UkHA1bRVXrWOSeB0v8HuFMrc7Y1YjaWx/edit?usp=sharing&ouid=114430799450490931044&rtpof=true&sd=true
 
 ---
 ### **About Me!**
-###### I am a third year student at Clemson University trying to get the hang of things in the world of computing! I find that overcoming obstacles (such as creating this webpage) is what makes me happy in life, and I always strive to get out of my comfort zone. When I am not doing schoolwork, you can find me hanging out with my friends, exercising, playing sports, or binging my favorite shows (currently it is Suits). 
+###### I am a third year student at Clemson University trying to get the hang of things in the world of computing! I find that overcoming obstacles (such as creating this webpage) is what makes me happy in life, and I always strive to get out of my comfort zone. When I am not doing schoolwork, you can find me hanging out with my friends, exercising, playing sports, or binging my favorite shows (currently it is Suits).
+
+<img align="right" width="150" height="150" src="Myself.jpg">
 
 ### **My Goals as a Software Engingeer in Training**
 - Create more based on my own interests
@@ -71,8 +73,10 @@ another indented item
   
 ---
 ### **Current and Upcoming Projects**
-##### Renters Lease Renewal Program (TBD-TBD)
-##### Much more to come!
+###### Renters Lease Renewal Program (TBD-TBD)
+###### *Much more to come!*
+
+
 
 
 
