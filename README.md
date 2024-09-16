@@ -53,4 +53,14 @@ another indented item
 [Email Addresses & URLS]
 <enter email address>
 -->
+# ***Meelad Daniel Rahimi***
+#### **Clemson University | Computer Science BS**
+###### *Contact Information: (843)330-2211 | <meeladr@g.clemson.edu>*
+###### [*Click Here to See my Resume!*][1]
+[1]: https://docs.google.com/document/d/1UkHA1bRVXrWOSeB0v8HuFMrc7Y1YjaWx/edit?usp=sharing&ouid=114430799450490931044&rtpof=true&sd=true
+
+---
+### **About Me!**
+###### 
+
 
