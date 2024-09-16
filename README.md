@@ -63,8 +63,17 @@ another indented item
 ### **About Me!**
 ###### I am a third year student at Clemson University trying to get the hang of things in the world of computing! I find that overcoming obstacles (such as creating this webpage) is what makes me happy in life, and I always strive to get out of my comfort zone. When I am not doing schoolwork, you can find me hanging out with my friends, exercising, playing sports, or binging my favorite shows (currently it is Suits). 
 
-### **My Goals**
+### **My Goals as a Software Engingeer in Training**
+- Create more based on my own interests
+- Write readable, time efficient, error-free, and malleable code
+- Incorporate UML, functional and non-functional requirments, and contracts
+- Try to create software that aids others
 
+---
+
+### **Current and Upcoming Projects**
+##### Renters Lease Renewal Program (TBD-TBD)
+##### Much more to come!
 
 
 
