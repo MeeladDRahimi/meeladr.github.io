@@ -68,12 +68,13 @@ another indented item
 - Write readable, time efficient, error-free, and malleable code
 - Incorporate UML, functional and non-functional requirments, and contracts
 - Try to create software that aids others
-
+  
 ---
-
 ### **Current and Upcoming Projects**
 ##### Renters Lease Renewal Program (TBD-TBD)
 ##### Much more to come!
+
+
 
 
 
